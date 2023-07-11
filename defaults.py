@@ -1,0 +1,1 @@
+BARD_KEY = 'YOUR __Secure-1PSID'
